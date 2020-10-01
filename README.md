@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+This is a practice Spotify Clone build made with React.
+It´s made for practice purpose only.
+This build has a connection to the Spotify API provided by the Spotify 
+Developers program.
+
 ## Available Scripts
 
 In the project directory, you can run:
